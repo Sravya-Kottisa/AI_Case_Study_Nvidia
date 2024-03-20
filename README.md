@@ -43,7 +43,25 @@ NVIDIA provides a range of AI solutions tailored to various industries to empowe
 
 These AI solutions from NVIDIA demonstrate the company's commitment to empowering businesses across various industries with cutting-edge technologies to drive innovation, improve efficiency, and unlock new possibilities in the era of artificial intelligence.
 
-### Major Trends and Innovations (Last 5-10 Years):
+## Invidia's Business Metrics
+
+NVIDIA's business metrics include key financial indicators and performance measures that showcase the company's success and growth in the technology sector. Some of the essential business metrics for NVIDIA are as follows:
+Revenue Breakdown by Business Segments:
+NVIDIA reports revenue from various segments, including gaming, data center, professional visualization, automotive, and OEM and other sectors. These segments contribute to the company's overall revenue, with gaming being a significant revenue generator comprising 45% of total revenue
+1. ***Financial Performance:***
+In Q3 of its 2022 fiscal year, NVIDIA reported a net income of $2.5 billion, with revenue rising by 50.3% year over year to reach $7.1 billion. The company's operating income also grew significantly, reflecting its profitability and operational efficiency
+
+2. ***Graphics Segment Performance:***
+The graphics segment includes GeForce GPUs for gaming and PCs, Quadro/NVIDIA RTX GPUs for enterprise design, and automotive platforms. In Q3 FY 2022, this segment generated $4.1 billion in revenue, up 46.8% year over year, showcasing strong growth and contribution to NVIDIA's total revenue
+
+3. ***Compute and Networking Segment Performance:***
+The compute and networking segment encompasses Data Center platforms, AI systems, high-performance computing solutions, and autonomous driving technologies. In Q3 FY 2022, this segment delivered $3.0 billion in revenue, up 55.3% year over year, highlighting its importance to NVIDIA's overall business performance
+
+4. ***Financial Strength and Profitability:***
+NVIDIA demonstrates robust financial strength with a high Altman Z-Score of 61.8 and a favorable Debt-to-Revenue ratio of 0.18. The company's profitability is evident through metrics like Operating Margin (54.12%) and Gross Margin (72.72%), indicating solid financial performance and operational efficiency
+
+
+## Major Trends and Innovations (Last 5-10 Years):
 Over the last 5-10 years, the field of technology has witnessed significant trends and innovations driven by companies like NVIDIA. Some major trends include:
 Advancements in AI and Deep Learning: Companies like NVIDIA have played a crucial role in advancing AI and deep learning technologies, leading to breakthroughs in various industries such as healthcare, finance, autonomous vehicles, and more.
 
@@ -79,4 +97,8 @@ Introducing a cloud-based AI platform for SMEs would benefit NVIDIA by expanding
 The cloud-based AI platform would leverage technologies such as machine learning algorithms, natural language processing (NLP), computer vision, and predictive analytics. Additionally, it would incorporate cloud computing infrastructure, scalable data storage solutions, and secure data processing capabilities to ensure efficient performance and data security for SME users.
  ### Appropriateness of Technologies:
 These technologies are ideal for the proposed solution as they enable SMEs to access advanced AI capabilities without the need for extensive in-house expertise or infrastructure. Machine learning algorithms can drive predictive modeling and data analysis, NLP can enhance customer interactions and insights, while computer vision can support visual recognition tasks. Cloud computing infrastructure ensures scalability, flexibility, and cost-effectiveness, making it a suitable choice for SMEs looking to adopt AI solutions without significant upfront investments. By incorporating these technologies, NVIDIA can offer a comprehensive AI platform that meets the specific needs of SMEs and empowers them to harness the benefits of AI technology for business growth and competitiveness.
+
+## References
+1.[NVIDIA - Tracxntracxn](https://tracxn.com/d/companies/nvidia/__Rwvr9cCWEygAYAiBEK0RuL1AbkKNw9sBGPqMEY6zVh4) Company profile and finances
+
  
