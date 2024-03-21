@@ -43,7 +43,7 @@ nVIDIA provides a range of AI solutions tailored to various industries to empowe
 
 These AI solutions from nVIDIA demonstrate the company's commitment to empowering businesses across various industries with cutting-edge technologies to drive innovation, improve efficiency, and unlock new possibilities in the era of artificial intelligence.
 
-## InVIDIA's Business Metrics
+## nVIDIA's Business Metrics
 
 nVIDIA's business metrics include key financial indicators and performance measures that showcase the company's success and growth in the technology sector. Some of the essential business metrics for nVIDIA are as follows:
 
@@ -51,18 +51,27 @@ nVIDIA's business metrics include key financial indicators and performance measu
 nVIDIA reports revenue from various segments, including gaming, data center, professional visualization, automotive, and OEM and other sectors. These segments contribute to the company's overall revenue, with gaming being a significant revenue generator comprising 45% of total revenue
 
 2. ***Financial Performance:***
-In 2024 , nVIDIA reported a revenue of$60.9B, with revenue rising by 50.3% year over year . The company's operating income also grew significantly, reflecting its profitability and operational efficiency
+NVIDIA reported a record revenue of $22.1 billion for the fourth quarter FY2024, marking a 22% increase from the previous quarter and a remarkable 265% surge from the previous year . The company's operating income also grew significantly, reflecting its profitability and operational efficiency.
 
-![](https://github.com/Sravya-Kottisa/AI_Case_Study_Nvidia/blob/main/Nvidia%20Finances.jpg)
+![](https://github.com/Sravya-Kottisa/AI_Case_Study_Nvidia/blob/main/nVIDIA%20Q4%20Earnings%20.jpg)
 
-3. ***Graphics Segment Performance:***
-The graphics segment includes GeForce GPUs for gaming and PCs, Quadro/nVIDIA RTX GPUs for enterprise design, and automotive platforms. In Q3 FY 2022, this segment generated $4.1 billion in revenue, up 46.8% year over year, showcasing strong growth and contribution to nVIDIA's total revenue
+3. ***Data Center Segment Performance:***
+In Q4FY2024, achieved a record $18.4 billion, up by 27% from the previous quarter and an impressive 409% increase from the previous year
+ 
 
-4. ***Compute and Networking Segment Performance:***
-The compute and networking segment encompasses Data Center platforms, AI systems, high-performance computing solutions, and autonomous driving technologies. In Q3 FY 2022, this segment delivered $3.0 billion in revenue, up 55.3% year over year, highlighting its importance to nVIDIA's overall business performance
+4. ***Gaming Segment:***
+In Q4FY2024, reached $2.9 billion, showing a 56% increase from the previous year
 
-5. ***Financial Strength and Profitability:***
-nVIDIA demonstrates robust financial strength with a high Altman Z-Score of 61.8 and a favorable Debt-to-Revenue ratio of 0.18. The company's profitability is evident through metrics like Operating Margin (54.12%) and Gross Margin (72.72%), indicating solid financial performance and operational efficiency
+5. ***Professional Visualization Segment:***
+In Q4FY2024, stood at $463 million, up by 11% from the previous quarter and an outstanding 105% increase from the previous year
+
+6. ***Automotive Segment:***
+In Q4FY2024, reported at $281 million, reflecting an 8% increase from the previous quarter but a decrease of 4% from the previous year
+
+7. ***OEM and Other Segment:***
+ In Q4FY2024, amounted to $90 million, showing a notable increase of 23% from the previous quarter and a 7% increase from the previous year
+
+These metrics highlight NVIDIA's exceptional performance across its key segments in Q4FY2024, with substantial revenue growth and significant increases in various business areas.
 
 
 ## Major Trends and Innovations (Last 5-10 Years):
@@ -118,6 +127,8 @@ These technologies are ideal for the proposed solution as they enable SMEs to ac
  7. [AI Solutions for Industries - nVIDIAnVIDIA.com](https://www.nVIDIA.com/en-us/industries/) Company site and AI technologies & use cases
  
  8. [nVIDIA Business Platforms](https://www.nVIDIA.com/en-us/drivers/nbp/) Trends and innovations
+
+ 9. [nVIDIA Q4 FY 2024 Earnings report](https://s201.q4cdn.com/141608511/files/doc_financials/2024/q4/NVDA-F4Q24-Quarterly-Presentation-FINAL.pdf) Current & past earnings reports
 
 
  
