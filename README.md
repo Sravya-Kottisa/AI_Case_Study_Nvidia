@@ -46,9 +46,11 @@ These AI solutions from nVIDIA demonstrate the company's commitment to empowerin
 ## InVIDIA's Business Metrics
 
 nVIDIA's business metrics include key financial indicators and performance measures that showcase the company's success and growth in the technology sector. Some of the essential business metrics for nVIDIA are as follows:
-Revenue Breakdown by Business Segments:
+
+1. ***Revenue Breakdown by Business Segments:***
 nVIDIA reports revenue from various segments, including gaming, data center, professional visualization, automotive, and OEM and other sectors. These segments contribute to the company's overall revenue, with gaming being a significant revenue generator comprising 45% of total revenue
-1. ***Financial Performance:***
+
+2. ***Financial Performance:***
 In 2024 , nVIDIA reported a revenue of$60.9B, with revenue rising by 50.3% year over year . The company's operating income also grew significantly, reflecting its profitability and operational efficiency
 
 ![](https://github.com/Sravya-Kottisa/AI_Case_Study_Nvidia/blob/main/Nvidia%20Finances.jpg)
